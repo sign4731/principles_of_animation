@@ -7,3 +7,5 @@ Edit the CSS to solve each exercise.
 
 Update with more exercises by writing:
 git pull https://github.com/petlatkea/principlesofanimation
+
+This is my page: https://sign4731.github.io/principles_of_animation/
